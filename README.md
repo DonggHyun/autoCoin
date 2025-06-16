@@ -38,6 +38,8 @@
     BINANCE_API_SECRET=YOUR_SECRET_KEY_HERE
     SLACK_WEBHOOK_URL=YOUR_SLACK_URL_HERE
     LEVERAGE=10
+
+    *SLACK_WEBHOOK_URL 참고  -) http://xn--velog-nu3u.io/@king/slack-incoming-webhook
     ```
 
 5.  **봇 실행**
