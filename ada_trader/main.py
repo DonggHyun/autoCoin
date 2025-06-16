@@ -71,7 +71,7 @@ def get_order_amount(symbol, entry_price, stop_loss, risk_percent, num_symbols):
             logging.warning(f"⚠️ [{symbol}] 계산된 증거금(${required_margin:.2f}) > 할당 자본(${capital_per_trade:.2f})")
             amount = (capital_per_trade * LEVERAGE) / entry_price
             logging.info(f"💡 [{symbol}] 주문량을 할당 자본 최대치로 재조정 -> {amount:.4f}")
-        min_notional = binance.market(symbol)['limits']['notional']['min']
+        min_notional = binance.market(symbol)['limits']['cost']['min']
         if (amount * entry_price) < min_notional:
             logging.error(f"❌ [{symbol}] 최종 주문액(${(amount * entry_price):.2f}) < 최소 주문액(${min_notional})")
             return 0
