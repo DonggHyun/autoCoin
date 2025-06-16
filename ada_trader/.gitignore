@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# Trade history
+trade_history.csv
+
+# IDE settings
+.vscode/
+.idea/
