@@ -12,7 +12,7 @@ from ada_trader.strategy import check_entry_signal
 from ada_trader.trader import execute_trade
 from ada_trader.utils import get_position_risk, send_slack_message, log_trade_record
 
-# --- 1. 초기 설정 ---
+# 1. 초기 설정
 log_level_map = {"DEBUG": logging.DEBUG, "INFO": logging.INFO}
 logging.basicConfig(level=log_level_map.get(LOG_LEVEL.upper(), logging.INFO), format='%(asctime)s %(levelname)s:%(message)s', handlers=[logging.FileHandler(f'logs/{datetime.now().strftime("%Y-%m-%d")}.log', encoding='utf-8'), logging.StreamHandler()])
 
@@ -28,11 +28,8 @@ except Exception as e:
 
 symbols = ['XRP/USDT', 'SOL/USDT', 'ETH/USDT']
 position_lock = {symbol: False for symbol in symbols}
-
 state = {symbol: {
-    'last_signal': None, 
-    'last_timestamp': 0, 
-    'entry_info': None,
+    'last_signal': None, 'last_timestamp': 0, 'entry_info': None,
     'last_market_condition': 'unknown'
 } for symbol in symbols}
 
@@ -40,16 +37,12 @@ for s in symbols:
     market = binance.market(s)
     try:
         binance.fapiPrivatePostLeverage({'symbol': market['id'], 'leverage': LEVERAGE})
-        logging.info(f"✅ [{market['id']}] 레버리지 {LEVERAGE}배 설정")
         binance.fapiPrivatePostMarginType({'symbol': market['id'], 'marginType': 'ISOLATED'})
-        logging.info(f"✅ [{market['id']}] 격리(ISOLATED) 모드 설정")
     except Exception as e:
-        if "No need to change" in str(e):
-            logging.info(f"ℹ️ [{market['id']}] 설정 변경 필요 없음")
-        else:
+        if "No need to change" not in str(e):
             logging.error(f"❌ [{market['id']}] 초기 설정 오류: {e}")
 
-# --- 2. 헬퍼 함수 정의 ---
+# 2. 헬퍼 함수
 def fetch_candles(symbol, timeframes=['1m', '15m'], limit=200):
     data = {}
     for tf in timeframes:
@@ -59,10 +52,11 @@ def fetch_candles(symbol, timeframes=['1m', '15m'], limit=200):
             df['timestamp'] = pd.to_datetime(df['timestamp'], unit='ms')
             df.set_index('timestamp', inplace=True)
             data[tf] = df
-        except Exception:
+        except Exception as e:
+            logging.warning(f"캔들 조회 실패 ({symbol}, {tf}): {e}")
             data[tf] = pd.DataFrame()
     return data
-    
+
 def get_order_amount(symbol, entry_price, stop_loss, risk_percent, num_symbols):
     try:
         total_balance = binance.fetch_balance({'type': 'future'})['total']['USDT']
@@ -76,14 +70,10 @@ def get_order_amount(symbol, entry_price, stop_loss, risk_percent, num_symbols):
         required_margin = position_value / LEVERAGE
         
         if required_margin > capital_per_trade:
-            logging.warning(f"⚠️ [{symbol}] 계산된 증거금(${required_margin:.2f}) > 할당 자본(${capital_per_trade:.2f})")
             amount = (capital_per_trade * LEVERAGE) / entry_price
-            logging.info(f"💡 [{symbol}] 주문량을 할당 자본 최대치로 재조정 -> {amount:.4f}")
 
         min_notional = binance.market(symbol)['limits']['cost']['min']
-        if (amount * entry_price) < min_notional:
-            logging.error(f"❌ [{symbol}] 최종 주문액(${(amount * entry_price):.2f}) < 최소 주문액(${min_notional})")
-            return 0
+        if (amount * entry_price) < min_notional: return 0
         
         return float(binance.amount_to_precision(symbol, amount))
     except Exception as e:
@@ -91,10 +81,10 @@ def get_order_amount(symbol, entry_price, stop_loss, risk_percent, num_symbols):
         return 0
 
 def update_trailing_stop(symbol, position, dfs):
-    # 이 함수는 이전과 동일하게 유지됩니다.
+    # 트레일링 스탑 로직
     pass
 
-# --- 3. 메인 로직 처리 함수 ---
+# 3. 메인 로직
 def process_symbol(symbol, binance_instance, state_data, lock_data, num_symbols):
     try:
         daily_ohlcv = binance_instance.fetch_ohlcv(symbol, '1d', limit=2)
@@ -110,7 +100,7 @@ def process_symbol(symbol, binance_instance, state_data, lock_data, num_symbols)
 
     risk_percent = RISK_PER_TRADE_PERCENT
     if ENABLE_DYNAMIC_RISK:
-        # 동적 리스크 계산 로직 (생략, 기존과 동일)
+        # 동적 리스크 계산 로직
         pass
 
     try:
@@ -136,13 +126,13 @@ def process_symbol(symbol, binance_instance, state_data, lock_data, num_symbols)
                     exit_reason = "Take Profit" if realized_pnl > 0 else "Stop Loss"
                     
                     msg = (f"🔔 [{symbol}] 포지션 종료 | {entry_info['direction'].upper()}\n"
-                           f"   - PnL: `${realized_pnl:,.4f}`\n"
-                           f"   - 보유 시간: {holding_time:.2f}분\n"
-                           f"   - 종료 사유: {exit_reason}")
+                        f"   - PnL: {realized_pnl:,.4f}\n"
+                        f"   - 보유 시간: {holding_time:.2f}분\n"
+                        f"   - 종료 사유: {exit_reason}")
                     send_slack_message(msg)
                     
                     log_trade_record(symbol=symbol, side=entry_info['direction'], timestamp=int(datetime.now().timestamp()*1000),
-                                     pnl=realized_pnl, holding_time=round(holding_time, 2), exit_reason=exit_reason)
+                                    pnl=realized_pnl, holding_time=round(holding_time, 2), exit_reason=exit_reason)
                 except Exception as e:
                     logging.error(f"❌ [{symbol}] 포지션 종료 후처리 중 오류: {e}")
                 finally:
@@ -150,8 +140,7 @@ def process_symbol(symbol, binance_instance, state_data, lock_data, num_symbols)
             return
 
     except Exception as e: 
-        logging.error(f"❌ [{symbol}] 포지션 확인 로직 오류: {e}")
-        return
+        logging.error(f"❌ [{symbol}] 포지션 확인 로직 오류: {e}"); return
 
     decision, entry_context, new_market_condition = check_entry_signal(
         dfs_with_indicators, 
@@ -186,26 +175,22 @@ def process_symbol(symbol, binance_instance, state_data, lock_data, num_symbols)
         lock_data[symbol] = True
         log_trade_record(symbol, direction, timestamp, entry_price=entry_price, stop_loss=stop_loss, take_profit=take_profit, entry_context=entry_context)
 
-# --- 4. 메인 실행 블록 ---
+# 4. 메인 실행 블록
 if __name__ == '__main__':
     logging.info("🚀 적응형 자동매매 프로그램을 시작합니다 (분산 투자 모드).")
     try:
         initial_balance = binance.fetch_balance({'type': 'future'})['total']['USDT']
         logging.info(f"📊 초기 잔고: ${initial_balance:,.2f}")
-        for sym in symbols:
-            positions = get_position_risk(binance, sym)
-            if any(abs(float(p.get('positionAmt', 0))) > 0 for p in positions):
-                position_lock[sym] = True
-                logging.warning(f"⚠️ [{sym}] 시작 시 포지션 발견! Lock 상태로 시작.")
     except Exception as e:
         logging.critical(f"❌ 초기 잔고 조회 실패: {e}. 프로그램 종료.")
         exit()
     
     while True:
         try:
-            wait_seconds = 60 - datetime.now().second
-            if wait_seconds > 0:
-                time.sleep(wait_seconds)
+            now = datetime.now(timezone.utc)
+            seconds_until_next_minute = 60 - now.second - (now.microsecond / 1_000_000)
+            if seconds_until_next_minute > 0:
+                time.sleep(seconds_until_next_minute)
             
             for symbol in symbols:
                 process_symbol(symbol, binance, state, position_lock, len(symbols))
