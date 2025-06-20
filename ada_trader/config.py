@@ -37,11 +37,9 @@ TRAILING_STOP_ATR_MULTIPLIER = 1.5
 # --- 전략 파라미터 ---
 MIN_ENTRY_INTERVAL_SECONDS = 120
 
-# 시장 판단을 위한 정밀 파라미터
-EMA_SLOPE_PERIOD = 10
-BBW_RANGE_THRESHOLD = 0.015
-MIN_TREND_SCORE = 4
-MIN_RANGE_SCORE = 4
+# [핵심 수정] 시장 판단의 최소 기준을 4점에서 3점으로 완화
+MIN_TREND_SCORE = 3             # 시장을 '추세'로 판단하기 위한 최소 점수 (4 -> 3)
+MIN_RANGE_SCORE = 3             # 시장을 '횡보'로 판단하기 위한 최소 점수 (4 -> 3)
 
 # 진입 결정에 필요한 총 점수
 TRENDING_REQUIRED_SCORE = 11

@@ -26,7 +26,7 @@ except Exception as e:
     logging.critical(f"❌ 바이낸스 마켓 정보 로딩 실패: {e}. 프로그램을 종료합니다.")
     exit()
 
-symbols = ['XRP/USDT', 'SOL/USDT', 'ETH/USDT']
+symbols = ['XRP/USDT', 'SOL/USDT', 'ETH/USDT', 'BTC/USDT', 'DOGE/USDT']
 position_lock = {symbol: False for symbol in symbols}
 state = {symbol: {
     'last_signal': None, 'last_timestamp': 0, 'entry_info': None,

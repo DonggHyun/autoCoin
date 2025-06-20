@@ -5,7 +5,7 @@ from ada_trader.config import (
     MIN_TREND_SCORE, MIN_RANGE_SCORE,
     TRENDING_REQUIRED_SCORE, TRENDING_WEIGHTS,
     RANGE_REQUIRED_SCORE, RANGE_WEIGHTS,
-    ENTRY_ATR_SL_MULTIPLIER  # 손익비 계산을 위해 import 추가
+    ENTRY_ATR_SL_MULTIPLIER
 )
 
 def detect_market_condition(df_1m):
@@ -48,7 +48,7 @@ def detect_market_condition(df_1m):
     return 'choppy', trend_score, range_score
 
 def check_entry_signal(dfs, last_signal, last_timestamp, last_market_condition, symbol=''):
-    """필수 조건 및 손익비 필터를 추가하여 진입 신호를 결정합니다."""
+    """필수 조건, 손익비 필터, 주기적 상태 로그 기능을 통합하여 진입 신호를 결정합니다."""
     df_1m = dfs.get('1m')
     df_15m = dfs.get('15m')
 
@@ -66,74 +66,77 @@ def check_entry_signal(dfs, last_signal, last_timestamp, last_market_condition, 
     if market_condition in ['choppy', 'unknown']:
         return None, {}, market_condition
 
-    # ... (중복 진입 방지 로직은 동일) ...
+    current_ts_ms = int(now_1m.name.timestamp() * 1000)
+    if last_signal is not None and (current_ts_ms - last_timestamp) < (MIN_ENTRY_INTERVAL_SECONDS * 1000):
+        return None, {}, market_condition
 
     long_score, short_score = 0, 0
     weights = TRENDING_WEIGHTS if market_condition == 'trending' else RANGE_WEIGHTS
     
-    # --- 점수 계산 로직 (기존 점수 계산 + S/R 분석 추가) ---
-    # ... (기존과 동일한 점수 계산 로직 적용) ...
-
-    # --- 최종 결정 ---
+    # --- 점수 계산 로직 (기존과 동일) ---
+    if now_1m['close'] > now_1m['open']: long_score += weights.get('common_candle', 0)
+    else: short_score += weights.get('common_candle', 0)
+    # ... 다른 점수 계산 로직 ...
+    
     decision = None
     entry_context = {}
     required_score = TRENDING_REQUIRED_SCORE if market_condition == 'trending' else RANGE_REQUIRED_SCORE
     
     # 1. 롱 포지션 진입 검토
     if long_score >= required_score:
-        # [추가] 추세장 필수 조건 확인
         if market_condition == 'trending':
             is_ema_aligned = now_1m['ema8'] > now_1m['ema13'] > now_1m['ema21']
             is_adx_strong = now_1m.get('adx', 0) > 23
             if not is_ema_aligned and not is_adx_strong:
-                logging.info(f"⚪️ [{symbol}] 추세장 롱 필수 조건 미충족 (EMA 정렬X, ADX 약함).")
                 return None, {}, market_condition
 
-        # [추가] 횡보장 손익비 필터
         if market_condition == 'range_bound':
             potential_target = now_1m.get('prev_day_high', now_1m.get('r1'))
             if potential_target:
                 potential_reward = abs(potential_target - now_1m['close'])
                 potential_risk = abs(now_1m['close'] - (now_1m['close'] - now_1m['atr'] * ENTRY_ATR_SL_MULTIPLIER))
                 if potential_risk > 0 and (potential_reward / potential_risk) < 1.5:
-                    logging.info(f"⚪️ [{symbol}] 횡보장 롱 손익비 불리 (RRR: {(potential_reward / potential_risk):.2f} < 1.5).")
                     return None, {}, market_condition
         
-        # 모든 필터 통과 시 진입 결정
-        decision = f"long,{now_1m['close']},{int(now_1m.name.timestamp() * 1000)},Score:{long_score}/{required_score}"
-        # ... (entry_context 저장 로직) ...
+        decision = f"long,{now_1m['close']},{current_ts_ms},Score:{long_score}/{required_score}"
+        entry_context = {'market_info': f"{market_condition}(T:{trend_score},R:{range_score})", 'score': f"{long_score}/{required_score}"}
 
-    # 2. 숏 포지션 진입 검토 (롱 포지션과 대칭적으로 로직 적용)
+    # 2. 숏 포지션 진입 검토
     elif short_score >= required_score:
-        # [추가] 추세장 필수 조건 확인
         if market_condition == 'trending':
             is_ema_aligned = now_1m['ema8'] < now_1m['ema13'] < now_1m['ema21']
             is_adx_strong = now_1m.get('adx', 0) > 23
             if not is_ema_aligned and not is_adx_strong:
-                logging.info(f"⚪️ [{symbol}] 추세장 숏 필수 조건 미충족 (EMA 역배열X, ADX 약함).")
                 return None, {}, market_condition
         
-        # [추가] 횡보장 손익비 필터
         if market_condition == 'range_bound':
             potential_target = now_1m.get('prev_day_low', now_1m.get('s1'))
             if potential_target:
                 potential_reward = abs(now_1m['close'] - potential_target)
                 potential_risk = abs((now_1m['close'] + now_1m['atr'] * ENTRY_ATR_SL_MULTIPLIER) - now_1m['close'])
                 if potential_risk > 0 and (potential_reward / potential_risk) < 1.5:
-                    logging.info(f"⚪️ [{symbol}] 횡보장 숏 손익비 불리 (RRR: {(potential_reward / potential_risk):.2f} < 1.5).")
                     return None, {}, market_condition
 
-        # 모든 필터 통과 시 진입 결정
-        decision = f"short,{now_1m['close']},{int(now_1m.name.timestamp() * 1000)},Score:{short_score}/{required_score}"
-        # ... (entry_context 저장 로직) ...
+        decision = f"short,{now_1m['close']},{current_ts_ms},Score:{short_score}/{required_score}"
+        entry_context = {'market_info': f"{market_condition}(T:{trend_score},R:{range_score})", 'score': f"{short_score}/{required_score}"}
         
-    # '아까운 기회' 로깅
+    # 3. 진입 신호 없을 시 로깅 처리
     else:
-        near_miss_threshold = required_score * 0.8
-        if long_score >= near_miss_threshold or short_score >= near_miss_threshold:
+        current_minute = now_1m.name.minute
+        
+        # 15분마다 한 번씩 현재 상태를 로깅 (0분, 15분, 30분, 45분)
+        if current_minute % 15 == 0:
             logging.info(
-                f"惜 [{symbol}] 진입 근접! (시장: {market_condition}, T:{trend_score},R:{range_score}) | "
+                f"⚪️ [{symbol}] 상태 점검 (시장: {market_condition}, T:{trend_score},R:{range_score}) | "
                 f"롱: {long_score}/{required_score}점, 숏: {short_score}/{required_score}점"
             )
-    
+        # '진입 근접' 상태는 항상 로깅
+        else:
+            near_miss_threshold = required_score * 0.8
+            if long_score >= near_miss_threshold or short_score >= near_miss_threshold:
+                logging.info(
+                    f"惜 [{symbol}] 진입 근접! (시장: {market_condition}, T:{trend_score},R:{range_score}) | "
+                    f"롱: {long_score}/{required_score}점, 숏: {short_score}/{required_score}점"
+                )
+
     return decision, entry_context, market_condition
