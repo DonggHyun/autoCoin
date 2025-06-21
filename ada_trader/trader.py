@@ -3,6 +3,7 @@ import ccxt
 from ada_trader.utils import send_slack_message
 
 def execute_trade(binance, symbol, direction, amount, stop_loss, take_profit):
+    """시장가 진입, TP/SL 주문 설정 등 오직 '주문 실행' 역할만 수행합니다."""
     side = 'buy' if direction == 'long' else 'sell'
     close_side = 'sell' if side == 'buy' else 'buy'
     
@@ -23,7 +24,7 @@ def execute_trade(binance, symbol, direction, amount, stop_loss, take_profit):
         logging.info(f"✅ [{symbol}] SL 주문 설정 완료. 발동가: {stop_loss}")
         
         msg = (f"📈 [{symbol}] 신규 진입 | {direction.upper()} | 수량: {amount} | 진입가: {entry_price:,.4f}\n"
-            f"   - TP: {take_profit:,.4f}, SL: {stop_loss:,.4f}")
+                f"   - TP: {take_profit:,.4f}, SL: {stop_loss:,.4f}")
         send_slack_message(msg)
         return True
 

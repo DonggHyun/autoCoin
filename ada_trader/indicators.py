@@ -5,8 +5,8 @@ from ada_trader.config import (
     ATR_TIMEFRAME_FOR_VOLATILITY, VOLATILITY_MA_PERIOD, EMA_SLOPE_PERIOD
 )
 
-def calculate_pivot_points(df_daily):
-    """일봉 데이터로 피봇 포인트(지지/저항선)를 계산합니다."""
+def calculate_sr_levels(df_daily):
+    """일봉 데이터로 피봇, 전일 고가/저가를 한 번에 계산하여 반환합니다."""
     if len(df_daily) < 2:
         return {}
     
@@ -21,20 +21,14 @@ def calculate_pivot_points(df_daily):
     s2 = pivot - (high - low)
     r2 = pivot + (high - low)
     
-    return {'pivot': pivot, 's1': s1, 'r1': r1, 's2': s2, 'r2': r2}
+    return {
+        'pivot': pivot, 's1': s1, 'r1': r1, 's2': s2, 'r2': r2,
+        'prev_day_high': high, 'prev_day_low': low
+    }
 
 def apply_indicators_multi(dfs, daily_df):
-    """
-    기본 지표, 피봇 포인트, 전일 고가/저가 등을 계산하여 DataFrame에 추가합니다.
-    """
-    pivots = calculate_pivot_points(daily_df)
-
-    prev_day_high = None
-    prev_day_low = None
-    if len(daily_df) >= 2:
-        prev_day = daily_df.iloc[-2]
-        prev_day_high = prev_day.get('high')
-        prev_day_low = prev_day.get('low')
+    """모든 보조지표를 계산하여 DataFrame에 추가합니다."""
+    sr_levels = calculate_sr_levels(daily_df)
 
     for tf, df in dfs.items():
         if df.empty: continue
@@ -90,13 +84,12 @@ def apply_indicators_multi(dfs, daily_df):
         epsilon = 1e-10
         df['bbw'] = (df['bollinger_upper'] - df['bollinger_lower']) / (df['sma_bb'] + epsilon)
         
-        if pivots:
-            for key, value in pivots.items():
+        # S/R 레벨 추가
+        if sr_levels:
+            for key, value in sr_levels.items():
                 df[key] = value
         
-        if prev_day_high is not None: df['prev_day_high'] = prev_day_high
-        if prev_day_low is not None: df['prev_day_low'] = prev_day_low
-
+        # 동적 리스크용 'ATR 이동평균' 지표
         if tf == ATR_TIMEFRAME_FOR_VOLATILITY:
             df['atr_ma'] = df['atr'].rolling(window=VOLATILITY_MA_PERIOD).mean()
         

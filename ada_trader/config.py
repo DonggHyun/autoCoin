@@ -40,8 +40,8 @@ MIN_ENTRY_INTERVAL_SECONDS = 120
 # 시장 판단을 위한 정밀 파라미터
 EMA_SLOPE_PERIOD = 10
 BBW_RANGE_THRESHOLD = 0.015
-MIN_TREND_SCORE = 3
-MIN_RANGE_SCORE = 3
+MIN_TREND_SCORE = 3 # 4점에서 완화
+MIN_RANGE_SCORE = 3 # 4점에서 완화
 
 # 진입 결정에 필요한 총 점수
 TRENDING_REQUIRED_SCORE = 11
@@ -57,15 +57,24 @@ SR_WEIGHTS = {
 
 # 각 전략별 조건 가중치
 TRENDING_WEIGHTS = {
-    'common_candle': 2, 'common_obv': 1, 'common_volume': 1, 'ema_alignment': 3,
-    'rsi_momentum_cross': 3, 'rsi_momentum_sustain': 1, 'macd_cross': 3,
-    'higher_tf_trend': 2, 'adx_strength': 2,
+    'common_candle': 2, 
+    'common_obv': 1, 
+    'common_volume': 1, 
+    'ema_alignment': 3,
+    'rsi_momentum_sustain': 1, 
+    'macd_cross': 3,
+    'higher_tf_trend': 2, 
+    'adx_strength': 2,
 }
 TRENDING_WEIGHTS.update(SR_WEIGHTS)
 
 RANGE_WEIGHTS = {
-    'common_candle': 2, 'common_obv': 1, 'common_volume': 1, 'rsi_reversal': 3,
-    'bollinger_reversal': 2, 'ema_cross_reclaim': 2,
+    'common_candle': 2, 
+    'common_obv': 1, 
+    'common_volume': 1, 
+    'rsi_reversal': 3,
+    'bollinger_reversal': 2, 
+    'ema_cross_reclaim': 2,
     'ema_support_reclaim': 1,
 }
 RANGE_WEIGHTS.update(SR_WEIGHTS)
