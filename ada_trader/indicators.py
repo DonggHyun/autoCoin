@@ -1,8 +1,11 @@
+# indicators.py (수정된 최종본)
+
 import pandas as pd
 import logging
 import numpy as np
+# [수정 1] 불필요한 config 변수 import 제거
 from ada_trader.config import (
-    ATR_TIMEFRAME_FOR_VOLATILITY, VOLATILITY_MA_PERIOD, EMA_SLOPE_PERIOD
+    EMA_SLOPE_PERIOD
 )
 
 def calculate_sr_levels(df_daily):
@@ -88,11 +91,7 @@ def apply_indicators_multi(dfs, daily_df):
         if sr_levels:
             for key, value in sr_levels.items():
                 df[key] = value
-        
-        # 동적 리스크용 'ATR 이동평균' 지표
-        if tf == ATR_TIMEFRAME_FOR_VOLATILITY:
-            df['atr_ma'] = df['atr'].rolling(window=VOLATILITY_MA_PERIOD).mean()
-        
+                
         dfs[tf] = df
 
     return dfs

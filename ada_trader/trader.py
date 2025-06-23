@@ -1,3 +1,4 @@
+#trader.py
 import logging
 import ccxt
 from ada_trader.utils import send_slack_message
@@ -15,16 +16,19 @@ def execute_trade(binance, symbol, direction, amount, stop_loss, take_profit):
         entry_price = float(entry_order.get('average', entry_order.get('price')))
         logging.info(f"🚀 [{symbol}] 진입 성공! {direction.upper()} | 수량: {amount} | 진입가: {entry_price}")
 
-        tp_params = {'stopPrice': take_profit, 'closePosition': True}
-        binance.create_order(symbol, 'TAKE_PROFIT_MARKET', close_side, amount, None, params=tp_params)
-        logging.info(f"✅ [{symbol}] TP 주문 설정 완료. 발동가: {take_profit}")
+        # TP 주문은 take_profit 값이 있을 때(횡보장일 때)만 실행
+        if take_profit is not None:
+            tp_params = {'stopPrice': take_profit, 'closePosition': True}
+            binance.create_order(symbol, 'TAKE_PROFIT_MARKET', close_side, amount, None, params=tp_params)
+            logging.info(f"✅ [{symbol}] TP 주문 설정 완료. 발동가: {take_profit}")
 
         sl_params = {'stopPrice': stop_loss, 'closePosition': True}
         binance.create_order(symbol, 'STOP_MARKET', close_side, amount, None, params=sl_params)
         logging.info(f"✅ [{symbol}] SL 주문 설정 완료. 발동가: {stop_loss}")
         
+        tp_msg = f", TP: {take_profit:,.4f}" if take_profit is not None else ", TP: (Trailing)"
         msg = (f"📈 [{symbol}] 신규 진입 | {direction.upper()} | 수량: {amount} | 진입가: {entry_price:,.4f}\n"
-                f"   - TP: {take_profit:,.4f}, SL: {stop_loss:,.4f}")
+                f"   - SL: {stop_loss:,.4f}{tp_msg}")
         send_slack_message(msg)
         return True
 

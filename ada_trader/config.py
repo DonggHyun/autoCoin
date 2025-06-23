@@ -1,3 +1,4 @@
+#config.py
 import os
 from dotenv import load_dotenv
 
@@ -8,31 +9,24 @@ API_KEY = os.getenv("BINANCE_API_KEY")
 API_SECRET = os.getenv("BINANCE_API_SECRET")
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
+# --- 거래 대상 설정 (솔라나 집중 투자) ---
+SYMBOLS = ['SOL/USDT']
+
 # --- 시스템 설정 ---
 LOG_LEVEL = "INFO" # 운영 시: "INFO", 상세 분석 시: "DEBUG"
 
 # --- 고급 기능 활성화 스위치 ---
-ENABLE_DYNAMIC_RISK = True
+ENABLE_DYNAMIC_RISK = False # 단일 종목 집중 투자이므로 비활성화
 ENABLE_TRAILING_STOP = True
 
-# --- 거래 설정 ---
+# --- 투자 전략 설정 ---
+CAPITAL_ALLOCATION_PERCENT = 0.6  # 자본금의 60%를 사용
 LEVERAGE = int(os.getenv("LEVERAGE", 10))
 
-# --- 리스크 관리 설정 (분산 투자 전략) ---
-RISK_PER_TRADE_PERCENT = 0.025  # 2.5%
-
-# --- 동적 리스크 상세 설정 ---
-ATR_TIMEFRAME_FOR_VOLATILITY = '15m'
-VOLATILITY_MA_PERIOD = 50
-HIGH_VOLATILITY_THRESHOLD_RATIO = 1.5
-LOW_VOLATILITY_THRESHOLD_RATIO = 0.7
-HIGH_VOLATILITY_RISK_MULTIPLIER = 0.6
-LOW_VOLATILITY_RISK_MULTIPLIER = 1.2
-
-# --- 트레일링 스탑 상세 설정 ---
+# --- 트레일링 스탑 상세 설정 (수익 극대화 조정) ---
 ENTRY_ATR_SL_MULTIPLIER = 1.5
-ENTRY_ATR_TP_MULTIPLIER = 4.0
-TRAILING_STOP_ATR_MULTIPLIER = 1.5
+TRAILING_STOP_ATR_MULTIPLIER = 2.0      # 수익 극대화를 위해 1.5 -> 2.0으로 조정
+BREAKEVEN_TRIGGER_ATR_MULTIPLIER = 1.5  # 1.5 ATR 이상 수익 시 본전 로직 발동
 
 # --- 전략 파라미터 ---
 MIN_ENTRY_INTERVAL_SECONDS = 120
@@ -40,12 +34,12 @@ MIN_ENTRY_INTERVAL_SECONDS = 120
 # 시장 판단을 위한 정밀 파라미터
 EMA_SLOPE_PERIOD = 10
 BBW_RANGE_THRESHOLD = 0.015
-MIN_TREND_SCORE = 3 # 4점에서 완화
-MIN_RANGE_SCORE = 3 # 4점에서 완화
+MIN_TREND_SCORE = 3
+MIN_RANGE_SCORE = 3
 
 # 진입 결정에 필요한 총 점수
 TRENDING_REQUIRED_SCORE = 11
-RANGE_REQUIRED_SCORE = 7
+RANGE_REQUIRED_SCORE = 6  # 횡보장 진입 점수 7 -> 6점으로 완화 유지
 
 # 지지/저항(S/R) 관련 가중치
 SR_WEIGHTS = {

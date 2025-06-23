@@ -1,0 +1,1767 @@
+2025-06-21 01:03:44,234 INFO:✅ 바이낸스 마켓 정보 로딩 성공.
+2025-06-21 01:03:44,821 INFO:🚀 적응형 자동매매 프로그램을 시작합니다 (분산 투자 모드).
+2025-06-21 01:03:44,893 INFO:📊 초기 잔고: $702.10
+2025-06-21 01:04:00,433 INFO:📊 [XRP/USDT] 시장 상태 변경: unknown -> trending (T:4,R:2)
+2025-06-21 01:04:00,761 INFO:📊 [SOL/USDT] 시장 상태 변경: unknown -> trending (T:5,R:2)
+2025-06-21 01:04:01,100 INFO:📊 [ETH/USDT] 시장 상태 변경: unknown -> trending (T:3,R:2)
+2025-06-21 01:04:01,441 INFO:📊 [BTC/USDT] 시장 상태 변경: unknown -> choppy (T:1,R:2)
+2025-06-21 01:04:01,774 INFO:📊 [DOGE/USDT] 시장 상태 변경: unknown -> trending (T:5,R:2)
+2025-06-21 01:05:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:07:01,044 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 01:11:01,401 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 01:12:01,372 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 01:15:00,336 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:15:01,714 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:16:01,048 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:16:01,749 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:17:01,370 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 01:18:01,396 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:21:01,409 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 01:25:01,387 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:26:01,399 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 01:29:01,031 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 01:30:00,694 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:30:01,054 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 01:30:01,054 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:30:01,395 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 01:30:01,870 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:31:00,691 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:31:01,032 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:31:01,747 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:0) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 01:32:00,671 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:32:01,013 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 01:33:00,741 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 01:34:00,701 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:4)
+2025-06-21 01:34:01,023 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 01:38:01,191 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 01:40:01,380 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 01:41:00,332 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:42:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 01:43:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 01:44:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:4)
+2025-06-21 01:44:01,365 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 01:45:01,078 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 01:45:01,427 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:45:01,829 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 01:46:00,341 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 01:46:00,683 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 01:47:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 01:48:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 01:49:00,347 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 01:51:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 01:52:01,025 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 01:54:01,059 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 01:55:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:55:01,020 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:56:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 01:56:01,149 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 01:57:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 01:58:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 01:58:01,367 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 01:59:00,356 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 01:59:01,376 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 02:00:00,350 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 02:00:00,350 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:00:00,707 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 02:00:01,047 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 02:00:01,415 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:00:01,750 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 02:01:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 02:01:00,351 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 02:01:00,702 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 02:01:01,039 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 02:03:01,739 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 02:04:01,884 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 02:05:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 02:08:01,051 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 02:10:00,688 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 02:11:00,355 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 02:12:01,028 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 02:15:01,044 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:15:01,410 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:15:01,747 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:16:00,340 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 02:16:00,690 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 02:16:01,032 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> range_bound (T:0,R:4)
+2025-06-21 02:17:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 02:19:01,015 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 02:20:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 02:20:01,037 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 02:30:00,349 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:4,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:30:04,131 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:30:04,474 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:30:04,821 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:31:00,343 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:31:01,034 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:31:01,397 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:45:01,048 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:4,R:1) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:45:01,379 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:45:01,742 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 02:46:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 02:46:01,680 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 02:47:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 02:47:01,385 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 02:48:00,682 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 02:48:01,371 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 02:49:00,696 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 02:49:01,378 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 02:50:00,706 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 02:51:00,664 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:0)
+2025-06-21 02:51:01,006 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:0)
+2025-06-21 02:54:00,891 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 02:54:01,585 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 02:55:01,383 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 02:56:00,992 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:0)
+2025-06-21 02:56:01,354 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 02:58:00,701 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 02:58:01,052 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:1)
+2025-06-21 03:00:01,028 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:0)
+2025-06-21 03:00:01,381 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 03:01:00,692 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 03:01:01,384 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 03:01:01,726 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 03:15:00,337 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 03:15:01,048 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 03:15:01,379 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 03:16:00,338 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 03:16:01,356 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 03:23:01,324 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:25:00,994 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 03:25:01,343 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:27:00,680 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:27:01,715 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:28:01,387 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 03:28:01,729 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 03:29:00,709 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 03:30:01,405 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 03:31:00,356 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 03:31:00,689 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 03:31:01,378 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 03:31:01,712 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:33:01,838 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 03:36:00,706 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 03:37:01,038 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 03:37:01,375 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 03:38:01,078 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 03:39:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:41:00,694 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:5)
+2025-06-21 03:41:01,388 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 03:42:00,683 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 03:43:00,338 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:44:00,694 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:3,R:4)
+2025-06-21 03:45:00,752 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 03:45:01,091 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 03:45:01,785 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 03:46:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 03:46:00,351 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 03:46:01,741 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 03:47:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:4)
+2025-06-21 03:47:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 03:49:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 03:50:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:50:01,725 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:51:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:51:01,792 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 03:52:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 03:52:01,714 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 03:53:02,125 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:3,R:4)
+2025-06-21 03:55:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 03:55:01,721 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 03:56:00,369 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 03:57:00,353 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 03:57:00,672 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 03:57:01,706 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 04:00:00,670 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 04:00:01,370 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 04:01:01,033 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 04:01:01,375 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 04:02:01,024 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 04:03:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 04:03:01,037 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> range_bound (T:3,R:4)
+2025-06-21 04:04:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:4,R:2)
+2025-06-21 04:05:00,330 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:05:00,664 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 04:06:01,732 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 04:07:01,744 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 04:09:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:15:00,331 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 04:15:00,662 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 04:15:01,341 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 04:15:01,695 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 04:24:00,686 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:26:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:27:01,771 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:28:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 04:28:01,027 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:29:01,049 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 04:30:00,348 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:30:00,682 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 04:30:01,751 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 04:30:01,751 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 04:31:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 04:31:00,336 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 04:31:00,676 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 04:31:00,999 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 04:32:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 04:32:00,651 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 04:32:01,708 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 04:33:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 04:33:00,672 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:33:01,001 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 04:34:01,028 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:36:01,730 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:37:01,015 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:39:01,003 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 04:41:00,344 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 04:42:01,030 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 04:45:00,712 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 04:45:01,135 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 04:45:01,535 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 04:47:01,472 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 04:48:00,359 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 04:49:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 04:49:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 04:49:01,027 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 04:50:00,670 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 04:51:00,686 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 04:51:01,408 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 04:52:00,690 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 04:52:01,031 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 04:52:01,732 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 04:53:01,733 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 04:54:01,777 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 04:55:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 04:55:00,682 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 04:56:00,676 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:56:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:4,R:2)
+2025-06-21 04:56:01,381 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 04:56:01,727 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 04:57:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:00:00,663 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 05:00:01,027 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 05:01:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:01:00,335 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 05:01:01,010 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 05:02:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:02:01,020 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 05:03:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 05:03:01,382 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 05:04:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 05:05:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:06:01,370 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:08:01,385 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 05:10:01,395 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:12:01,391 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:15:00,708 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:15:01,115 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:15:01,439 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 05:15:01,784 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:16:00,351 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:16:00,684 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:16:01,379 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 05:17:01,386 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 05:20:01,392 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 05:23:01,456 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 05:26:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:27:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 05:30:01,035 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:30:01,730 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:31:01,021 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 05:32:01,370 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:35:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:37:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 05:38:00,440 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 05:41:00,338 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 05:41:01,020 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 05:42:01,051 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:45:00,334 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 05:45:00,685 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 05:45:01,741 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:46:00,684 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 05:47:00,348 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 05:47:01,381 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:47:01,724 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:48:01,382 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> range_bound (T:1,R:3)
+2025-06-21 05:49:00,694 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:49:01,037 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 05:49:01,382 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:50:00,330 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 05:50:01,364 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 05:51:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 05:51:01,373 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 05:52:00,668 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 05:53:00,687 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 05:53:01,363 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:54:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:0,R:4)
+2025-06-21 05:55:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:55:00,675 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 05:55:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 05:55:01,386 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:56:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:56:01,360 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:56:01,700 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 05:57:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:3,R:4)
+2025-06-21 05:57:01,696 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 05:58:01,391 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 05:58:01,734 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 05:59:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 05:59:01,370 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 06:00:00,722 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 06:00:01,049 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 06:00:01,049 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:00:01,441 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 06:01:01,019 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:01:01,380 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 06:02:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 06:02:00,674 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 06:02:01,374 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:03:01,016 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 06:04:01,350 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 06:04:01,712 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 06:06:01,364 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 06:08:01,590 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 06:14:00,687 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 06:15:00,686 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 06:15:01,013 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:15:01,729 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:16:00,346 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 06:16:00,679 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 06:16:01,437 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 06:16:01,747 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 06:17:00,697 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 06:26:00,701 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:4,R:2)
+2025-06-21 06:30:00,329 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:30:01,448 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:30:01,775 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:31:00,340 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:31:00,665 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 06:31:01,010 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:31:01,381 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:33:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 06:33:01,858 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 06:34:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 06:34:01,018 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 06:35:01,758 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 06:36:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:36:00,701 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 06:36:01,030 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:36:01,732 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:37:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:37:01,036 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 06:37:01,784 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:40:00,699 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:41:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 06:43:01,041 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:3,R:4)
+2025-06-21 06:44:01,100 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 06:45:00,679 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:45:00,679 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:45:01,022 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 06:45:01,348 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:45:01,711 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:46:00,353 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 06:46:00,693 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:46:01,396 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 06:47:00,690 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 06:48:00,696 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 06:48:01,394 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:49:04,558 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 06:51:01,096 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 06:52:01,112 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 06:53:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:53:01,698 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 06:56:00,692 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 06:56:01,724 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 06:57:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 06:59:00,885 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:3,R:4)
+2025-06-21 07:00:00,332 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:4,R:2)
+2025-06-21 07:00:00,332 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:00:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 07:00:00,681 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:00:01,407 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 07:00:01,742 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:01:00,703 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:01:01,120 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:3,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 07:01:01,857 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:05:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 07:06:01,387 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:08:01,396 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 07:15:01,096 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:16:00,339 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:16:00,665 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:16:01,024 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:17:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:17:01,382 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:18:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:18:01,437 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:21:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:22:01,513 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:23:00,335 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:24:00,344 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:25:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:26:01,394 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:28:00,356 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:30:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:30:00,345 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:30:00,689 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:30:01,035 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:30:01,749 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:31:00,353 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:31:01,033 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:31:01,356 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:32:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:32:01,014 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:32:01,335 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:32:01,680 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:33:01,742 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 07:34:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:34:01,397 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:35:01,476 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:36:00,667 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:36:01,367 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:36:01,702 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:38:00,664 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:38:01,028 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:38:01,377 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 07:38:01,696 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 07:39:01,182 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 07:39:01,515 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:40:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:40:01,718 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:43:01,819 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 07:44:00,350 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:44:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:45:00,352 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:45:01,050 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:45:01,384 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:45:01,711 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:46:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 07:46:00,334 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:46:00,739 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:46:01,070 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:46:01,398 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:46:01,398 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 07:51:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:52:00,697 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:52:01,389 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:52:01,723 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 07:53:00,696 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 07:54:01,565 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 07:56:00,673 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 07:56:01,409 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 07:57:01,794 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 07:59:00,698 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 08:01:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:01:01,024 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 08:01:01,345 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 08:01:01,345 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 08:02:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 08:02:01,387 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 08:03:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:03:01,447 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:04:00,665 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 08:06:00,328 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:06:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 08:07:01,096 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:07:01,495 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 08:09:00,359 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 08:10:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 08:11:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:11:01,033 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:12:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 08:12:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:12:01,378 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 08:14:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 08:14:01,364 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 08:15:01,384 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 08:15:01,724 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 08:16:00,680 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 08:17:00,355 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 08:17:01,369 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:5)
+2025-06-21 08:19:01,063 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 08:26:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 08:30:00,342 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 08:30:01,025 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 08:30:01,366 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 08:30:01,712 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 08:31:00,338 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 08:32:01,732 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 08:33:01,379 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 08:37:00,667 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 08:45:00,688 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 08:45:01,713 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 08:46:00,336 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 08:46:00,686 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 08:46:01,714 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 08:50:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:53:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:54:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:54:01,025 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:55:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:55:01,367 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 08:56:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:57:00,332 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 08:59:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 08:59:01,704 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:00:00,555 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:00:01,594 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 09:01:00,350 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 09:01:01,013 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:01:01,355 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 09:02:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 09:02:01,718 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 09:03:01,018 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:04:00,702 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:04:01,739 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 09:05:00,662 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 09:06:01,045 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 09:07:00,659 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:08:00,668 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 09:08:01,358 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:09:01,722 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:10:01,016 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:10:01,746 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 09:11:01,055 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 09:12:00,695 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:12:01,735 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:13:00,705 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 09:14:00,670 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:16:01,406 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 09:18:01,384 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:19:00,680 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 09:19:01,042 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:21:01,725 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 09:22:01,366 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 09:23:01,383 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:23:01,727 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:24:01,021 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 09:24:01,718 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 09:25:01,384 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 09:26:01,054 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:26:01,720 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 09:29:00,899 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 09:29:01,228 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 09:29:01,582 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 09:30:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:30:00,667 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 09:30:01,717 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 09:31:01,018 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 09:32:00,701 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:33:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:5)
+2025-06-21 09:33:01,396 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 09:34:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 09:35:01,721 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:5)
+2025-06-21 09:36:01,731 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 09:37:01,724 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:3,R:4)
+2025-06-21 09:44:00,702 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 09:45:00,343 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 09:45:01,378 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 09:45:01,705 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:46:00,334 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 09:46:00,660 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:5)
+2025-06-21 09:46:01,706 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 09:50:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 09:51:01,750 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:52:00,680 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 09:54:00,673 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 09:54:01,013 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 09:56:01,723 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 09:57:01,712 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 10:00:00,343 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 10:00:03,200 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 10:00:03,541 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 10:00:04,036 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 10:01:01,034 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:6) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 10:09:01,043 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 10:09:01,738 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 10:10:01,741 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 10:12:00,354 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 10:15:00,671 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 10:15:01,381 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 10:15:01,722 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 10:15:01,722 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 10:16:01,732 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 10:17:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 10:20:01,030 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 10:21:01,747 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 10:22:01,712 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 10:23:01,749 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 10:25:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 10:26:01,736 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 10:28:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 10:28:00,743 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 10:28:01,083 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 10:29:01,375 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 10:29:01,709 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 10:30:00,334 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 10:30:01,030 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 10:31:00,669 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 10:31:00,669 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 10:31:01,715 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 10:36:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 10:37:00,663 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 10:37:01,368 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 10:38:00,690 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 10:40:00,704 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 10:45:00,329 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 10:45:00,674 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 10:45:00,998 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 10:45:01,364 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 10:45:01,708 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 0/11점
+2025-06-21 10:46:01,031 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 10:47:00,354 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 10:48:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 10:49:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 10:50:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 10:51:01,481 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 10:51:01,822 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 10:52:00,349 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 10:53:01,786 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 10:54:00,514 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 10:54:02,255 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 10:55:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 10:58:00,680 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 10:58:01,017 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 10:58:01,707 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 11:00:01,046 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 11:00:01,381 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 11:00:01,748 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 11:00:01,748 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 2/11점
+2025-06-21 11:01:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 11:01:00,347 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 11:01:00,663 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:0,R:4)
+2025-06-21 11:03:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 11:03:01,021 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 11:03:01,356 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 11:03:01,711 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 11:04:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 11:06:01,715 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 11:07:01,407 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 11:07:01,764 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 11:08:02,056 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 11:09:01,171 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 11:10:00,784 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 11:10:01,897 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 11:11:01,113 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 11:13:01,414 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 11:14:01,102 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 11:14:01,520 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 11:14:01,982 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 11:15:00,356 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 11:15:01,403 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 11:16:00,373 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 11:18:14,486 INFO:✅ 바이낸스 마켓 정보 로딩 성공.
+2025-06-21 11:18:15,049 INFO:🚀 적응형 자동매매 프로그램을 시작합니다 (분산 투자 모드).
+2025-06-21 11:18:15,109 INFO:📊 초기 잔고: $702.10
+2025-06-21 11:19:00,469 INFO:📊 [XRP/USDT] 시장 상태 변경: unknown -> range_bound (T:1,R:4)
+2025-06-21 11:19:00,836 INFO:📊 [SOL/USDT] 시장 상태 변경: unknown -> choppy (T:0,R:2)
+2025-06-21 11:19:01,206 INFO:📊 [ETH/USDT] 시장 상태 변경: unknown -> choppy (T:1,R:2)
+2025-06-21 11:19:01,574 INFO:📊 [BTC/USDT] 시장 상태 변경: unknown -> range_bound (T:0,R:5)
+2025-06-21 11:19:01,943 INFO:📊 [DOGE/USDT] 시장 상태 변경: unknown -> choppy (T:0,R:2)
+2025-06-21 11:20:00,720 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 11:20:01,832 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 11:21:00,368 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 11:21:01,080 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 11:24:00,362 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 11:24:00,362 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 11:25:00,356 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 11:26:00,369 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 11:26:00,369 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 11:28:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 11:28:00,678 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 11:28:01,029 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 11:28:01,389 INFO:惜 [BTC/USDT] 진입 근접! (시장: range_bound, T:1,R:3) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 11:29:01,871 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 11:30:01,468 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 11:31:01,104 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 11:32:00,738 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 11:32:00,738 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 11:32:01,838 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 11:32:01,840 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 11:33:01,332 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 11:34:00,735 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 11:34:01,081 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 11:50:12,235 INFO:✅ 바이낸스 마켓 정보 로딩 성공.
+2025-06-21 11:50:12,838 INFO:🚀 적응형 자동매매 프로그램을 시작합니다 (분산 투자 모드).
+2025-06-21 11:50:12,899 INFO:📊 초기 잔고: $702.10
+2025-06-21 11:51:00,457 INFO:📊 [XRP/USDT] 시장 상태 변경: unknown -> range_bound (T:1,R:4)
+2025-06-21 11:51:00,886 INFO:📊 [SOL/USDT] 시장 상태 변경: unknown -> range_bound (T:1,R:4)
+2025-06-21 11:51:01,228 INFO:📊 [ETH/USDT] 시장 상태 변경: unknown -> range_bound (T:0,R:5)
+2025-06-21 11:51:01,596 INFO:📊 [BTC/USDT] 시장 상태 변경: unknown -> choppy (T:3,R:3)
+2025-06-21 11:51:01,944 INFO:📊 [DOGE/USDT] 시장 상태 변경: unknown -> range_bound (T:0,R:5)
+2025-06-21 11:52:01,465 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 12:00:00,670 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 12:00:01,365 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 12:00:01,691 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 12:01:00,360 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 4/7점, 숏: 1/7점
+2025-06-21 12:01:01,033 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 12:01:01,383 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 12:03:01,405 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:03:01,405 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:04:01,112 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:05:00,676 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 12:05:01,003 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:07:00,700 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 12:07:01,146 INFO:✅ [ETH/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 12:07:01,334 INFO:🚀 [ETH/USDT] 진입 성공! LONG | 수량: 0.578 | 진입가: 2427.41
+2025-06-21 12:07:01,544 INFO:✅ [ETH/USDT] TP 주문 설정 완료. 발동가: 2433.201063124094
+2025-06-21 12:07:01,750 INFO:✅ [ETH/USDT] SL 주문 설정 완료. 발동가: 2425.8433513284645
+2025-06-21 12:07:02,161 INFO:✍️  [진입 기록] ETH/USDT | LONG | 진입: 2427.85
+2025-06-21 12:07:02,167 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 12:07:02,515 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:10:01,728 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:4,R:2)
+2025-06-21 12:12:01,025 INFO:🔓 [ETH/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 12:12:01,666 INFO:✍️  [청산 기록] ETH/USDT | 사유: Stop Loss | PnL: -0.8098
+2025-06-21 12:12:01,673 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 12:12:01,991 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:12:02,339 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:13:01,145 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:14:01,138 INFO:✅ [ETH/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 12:14:01,337 INFO:🚀 [ETH/USDT] 진입 성공! LONG | 수량: 0.577 | 진입가: 2425.32
+2025-06-21 12:14:01,548 INFO:✅ [ETH/USDT] TP 주문 설정 완료. 발동가: 2430.486182674653
+2025-06-21 12:14:01,775 INFO:✅ [ETH/USDT] SL 주문 설정 완료. 발동가: 2423.368931497005
+2025-06-21 12:14:02,269 INFO:✍️  [진입 기록] ETH/USDT | LONG | 진입: 2425.31
+2025-06-21 12:14:02,269 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 12:16:00,331 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:6) | 롱: 4/7점, 숏: 1/7점
+2025-06-21 12:16:00,678 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:16:01,371 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:16:01,378 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:17:00,683 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:18:01,401 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:19:01,365 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:21:01,385 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:21:01,732 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 12:22:01,740 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 12:23:01,361 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:24:00,751 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 12:24:01,808 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 12:25:01,398 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:26:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 12:26:01,337 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:27:00,323 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:27:00,672 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 12:27:00,672 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:27:01,400 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:28:00,351 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:28:00,675 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:28:01,352 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:29:00,433 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:29:00,790 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:30:00,334 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 3/11점
+2025-06-21 12:30:00,659 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 7/11점, 숏: 3/11점
+2025-06-21 12:30:01,339 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 2/11점
+2025-06-21 12:30:01,684 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 1/7점, 숏: 2/7점
+2025-06-21 12:31:00,348 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:31:00,685 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:31:01,368 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:31:01,710 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 12:32:00,678 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:32:01,355 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:33:00,696 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:33:01,377 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:33:01,383 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:34:00,680 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:34:01,370 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:34:01,691 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 12:34:01,691 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:35:01,749 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:36:00,343 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:36:00,672 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:36:01,355 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:36:01,686 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 12:37:00,692 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:37:01,706 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:38:01,903 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:40:00,320 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:40:01,347 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:4)
+2025-06-21 12:43:01,719 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 12:44:00,682 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:45:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:45:01,413 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 12:48:00,688 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 12:49:01,386 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 12:50:00,338 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 12:50:00,338 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 12:51:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 12:51:00,670 INFO:惜 [SOL/USDT] 진입 근접! (시장: range_bound, T:2,R:3) | 롱: 6/7점, 숏: 4/7점
+2025-06-21 12:51:01,369 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 12:52:00,332 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 12:52:00,678 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 12:52:01,363 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 12:53:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 12:53:01,344 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 12:53:01,688 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 12:55:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 12:57:01,354 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:00:01,404 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 7/11점
+2025-06-21 13:01:00,322 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 5/7점, 숏: 0/7점
+2025-06-21 13:01:01,329 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 5/11점, 숏: 5/11점
+2025-06-21 13:01:01,672 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:03:01,374 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:03:01,722 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 13:03:01,813 INFO:✅ [DOGE/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 13:03:02,018 INFO:🚀 [DOGE/USDT] 진입 성공! LONG | 수량: 8558.0 | 진입가: 0.16334
+2025-06-21 13:03:02,245 INFO:✅ [DOGE/USDT] TP 주문 설정 완료. 발동가: 0.1637467086874391
+2025-06-21 13:03:02,439 INFO:✅ [DOGE/USDT] SL 주문 설정 완료. 발동가: 0.16322873424221032
+2025-06-21 13:03:02,785 INFO:✍️  [진입 기록] DOGE/USDT | LONG | 진입: 0.16337
+2025-06-21 13:03:02,785 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 13:04:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 13:04:00,666 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 13:04:01,018 INFO:🔓 [ETH/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 13:04:01,761 INFO:✍️  [청산 기록] ETH/USDT | 사유: Stop Loss | PnL: -0.8828
+2025-06-21 13:04:01,761 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 13:04:02,094 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:04:02,441 INFO:🔓 [DOGE/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 13:04:03,199 INFO:✍️  [청산 기록] DOGE/USDT | 사유: Stop Loss | PnL: -0.1155
+2025-06-21 13:04:03,206 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 13:05:00,674 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:06:00,683 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 13:07:00,317 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:07:01,734 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:08:00,727 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:10:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 13:11:01,048 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:12:01,043 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:12:01,043 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:12:01,378 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:13:01,382 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:14:01,682 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:15:00,322 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 7/11점
+2025-06-21 13:15:00,999 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 5/11점, 숏: 5/11점
+2025-06-21 13:15:01,334 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 13:15:01,694 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 13:16:00,342 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 13:17:00,342 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:18:00,664 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:20:00,328 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:20:00,995 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:20:01,324 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:20:01,682 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 13:21:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 13:21:01,357 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 13:22:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 13:22:00,690 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:22:01,386 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 13:22:01,713 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:23:00,401 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 13:23:00,724 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 13:24:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:24:01,325 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:25:00,332 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:25:00,666 INFO:惜 [SOL/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 13:25:01,333 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:26:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:26:01,361 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:27:00,332 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:27:01,001 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:27:01,001 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:28:01,015 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 13:28:01,367 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 13:30:01,037 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:30:01,037 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 13:30:01,397 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 13:30:01,731 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:30:01,731 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 7/11점
+2025-06-21 13:31:00,705 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 13:31:01,393 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:32:01,479 INFO:✅ [BTC/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 13:32:01,688 INFO:🚀 [BTC/USDT] 진입 성공! SHORT | 수량: 0.005 | 진입가: 103330.0
+2025-06-21 13:32:01,894 INFO:✅ [BTC/USDT] TP 주문 설정 완료. 발동가: 103265.13220704932
+2025-06-21 13:32:02,129 INFO:✅ [BTC/USDT] SL 주문 설정 완료. 발동가: 103354.3254223565
+2025-06-21 13:32:02,615 INFO:✍️  [진입 기록] BTC/USDT | SHORT | 진입: 103330.0
+2025-06-21 13:32:02,615 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 13:33:01,715 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:35:00,683 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:36:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:36:01,029 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:37:01,741 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 13:38:01,728 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 13:39:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:39:00,343 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:40:00,674 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 13:41:01,047 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 13:43:01,032 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:43:01,728 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:46:00,341 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 13:46:01,694 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:1,R:3)
+2025-06-21 13:47:00,671 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:47:00,990 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 13:47:01,689 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 13:49:01,017 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 13:51:00,693 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 13:51:01,030 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 13:51:01,734 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 13:54:01,022 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:56:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 13:59:00,329 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:00:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:00:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 14:00:01,026 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 14:00:01,720 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 1/7점, 숏: 2/7점
+2025-06-21 14:01:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:01:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:01:01,359 INFO:🔓 [BTC/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 14:01:01,950 INFO:✍️  [청산 기록] BTC/USDT | 사유: Stop Loss | PnL: -0.0780
+2025-06-21 14:01:01,950 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:02:00,336 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 14:02:00,702 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 14:02:01,388 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 14:03:00,399 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 14:03:01,431 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 14:04:00,676 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 14:05:00,343 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 14:05:00,697 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 14:05:01,404 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 14:06:00,443 INFO:✅ [XRP/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 14:06:00,664 INFO:🚀 [XRP/USDT] 진입 성공! SHORT | 수량: 282.5 | 진입가: 2.1194
+2025-06-21 14:06:00,856 INFO:✅ [XRP/USDT] TP 주문 설정 완료. 발동가: 2.1165500608531245
+2025-06-21 14:06:01,062 INFO:✅ [XRP/USDT] SL 주문 설정 완료. 발동가: 2.1204687271800786
+2025-06-21 14:06:01,561 INFO:✍️  [진입 기록] XRP/USDT | SHORT | 진입: 2.1194
+2025-06-21 14:06:01,561 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:06:01,881 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:06:02,551 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:4)
+2025-06-21 14:08:00,333 INFO:🔓 [XRP/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 14:08:00,941 INFO:✍️  [청산 기록] XRP/USDT | 사유: Stop Loss | PnL: -0.3390
+2025-06-21 14:08:00,941 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:08:01,271 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 14:09:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:09:01,338 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 14:10:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:10:00,345 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 14:11:00,319 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 14:11:00,668 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 14:12:00,327 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 14:12:01,688 INFO:惜 [DOGE/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 14:13:00,342 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 14:13:01,668 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:14:00,345 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 14:14:01,008 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:16:00,335 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:16:01,031 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 14:17:00,350 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:17:00,350 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 14:17:01,358 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 14:18:00,325 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:19:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 14:22:01,743 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 14:23:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 14:24:00,335 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 14:24:00,674 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:24:01,008 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:25:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:25:01,447 INFO:✅ [BTC/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 14:25:01,662 INFO:🚀 [BTC/USDT] 진입 성공! SHORT | 수량: 0.005 | 진입가: 103380.6
+2025-06-21 14:25:01,865 INFO:✅ [BTC/USDT] TP 주문 설정 완료. 발동가: 103338.31177509177
+2025-06-21 14:25:02,079 INFO:✅ [BTC/USDT] SL 주문 설정 완료. 발동가: 103396.45808434059
+2025-06-21 14:25:02,441 INFO:✍️  [진입 기록] BTC/USDT | SHORT | 진입: 103380.6
+2025-06-21 14:25:02,441 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:25:02,788 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:26:01,750 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 14:28:01,352 INFO:🔓 [BTC/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 14:28:02,110 INFO:✍️  [청산 기록] BTC/USDT | 사유: Stop Loss | PnL: -0.0865
+2025-06-21 14:28:02,110 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:29:01,362 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 14:30:00,332 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 5/11점, 숏: 4/11점
+2025-06-21 14:30:00,675 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:30:01,011 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 14:30:01,011 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 7/11점, 숏: 0/11점
+2025-06-21 14:30:01,348 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 3/11점
+2025-06-21 14:30:01,707 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 14:31:00,335 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 6/11점, 숏: 6/11점
+2025-06-21 14:31:01,014 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 14:31:01,353 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 14:32:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:32:01,014 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 14:32:01,333 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 14:33:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:33:01,009 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 14:33:01,465 INFO:✅ [BTC/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 14:33:01,678 INFO:🚀 [BTC/USDT] 진입 성공! LONG | 수량: 0.005 | 진입가: 103424.6
+2025-06-21 14:33:01,889 INFO:✅ [BTC/USDT] TP 주문 설정 완료. 발동가: 103482.9724543841
+2025-06-21 14:33:02,097 INFO:✅ [BTC/USDT] SL 주문 설정 완료. 발동가: 103402.57282960597
+2025-06-21 14:33:02,583 INFO:✍️  [진입 기록] BTC/USDT | LONG | 진입: 103424.5
+2025-06-21 14:33:02,583 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:34:00,340 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 3/11점
+2025-06-21 14:34:01,017 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 14:35:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:36:00,324 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 3/11점
+2025-06-21 14:39:00,338 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 3/11점
+2025-06-21 14:39:00,667 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:0,R:4)
+2025-06-21 14:39:01,031 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 14:42:00,348 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 14:42:01,349 INFO:🔓 [BTC/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 14:42:01,939 INFO:✍️  [청산 기록] BTC/USDT | 사유: Stop Loss | PnL: -0.1110
+2025-06-21 14:42:01,946 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 14:42:02,283 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:43:01,032 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:43:01,364 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 14:44:01,388 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 14:45:00,674 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 14:45:00,992 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 14:45:00,992 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 14:46:00,669 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:47:00,349 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 14:47:01,359 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:47:01,366 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 14:47:01,703 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:48:01,032 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 14:48:01,392 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 14:48:01,392 INFO:惜 [BTC/USDT] 진입 근접! (시장: range_bound, T:2,R:3) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 14:49:01,039 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 14:49:01,375 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 14:49:01,723 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 14:50:01,727 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 14:51:01,020 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 14:52:00,687 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 14:52:01,029 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 14:53:01,032 INFO:惜 [ETH/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 14:53:01,393 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 14:54:01,722 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 14:55:00,310 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 14:57:00,324 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 14:58:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 15:00:00,677 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 1/7점, 숏: 5/7점
+2025-06-21 15:00:01,342 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:00:01,694 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:01:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:01:00,685 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:01:01,142 INFO:✅ [ETH/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 15:01:01,353 INFO:🚀 [ETH/USDT] 진입 성공! SHORT | 수량: 0.245 | 진입가: 2423.61
+2025-06-21 15:01:01,563 INFO:✅ [ETH/USDT] TP 주문 설정 완료. 발동가: 2420.871988310194
+2025-06-21 15:01:01,770 INFO:✅ [ETH/USDT] SL 주문 설정 완료. 발동가: 2425.1730043836774
+2025-06-21 15:01:02,130 INFO:✍️  [진입 기록] ETH/USDT | SHORT | 진입: 2424.0
+2025-06-21 15:01:02,130 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:01:02,787 INFO:惜 [DOGE/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 15:02:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 15:03:00,686 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:04:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 15:06:00,321 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:06:00,321 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 15:08:00,852 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:08:01,862 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:09:00,322 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 15:09:00,669 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 15:09:01,675 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 15:11:00,329 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:11:00,330 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 15:11:01,484 INFO:✅ [BTC/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 15:11:01,690 INFO:🚀 [BTC/USDT] 진입 성공! LONG | 수량: 0.005 | 진입가: 103343.1
+2025-06-21 15:11:01,897 INFO:✅ [BTC/USDT] TP 주문 설정 완료. 발동가: 103380.3683443703
+2025-06-21 15:11:02,113 INFO:✅ [BTC/USDT] SL 주문 설정 완료. 발동가: 103329.12437086114
+2025-06-21 15:11:02,449 INFO:✍️  [진입 기록] BTC/USDT | LONG | 진입: 103343.1
+2025-06-21 15:11:02,449 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:12:00,316 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 15:15:00,335 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:15:00,335 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 8/11점, 숏: 2/11점
+2025-06-21 15:15:01,666 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 1/7점, 숏: 2/7점
+2025-06-21 15:16:00,329 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 15:16:00,653 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 15:16:01,660 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:17:00,338 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:1,R:3)
+2025-06-21 15:17:01,021 INFO:🔓 [ETH/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 15:17:01,625 INFO:✍️  [청산 기록] ETH/USDT | 사유: Take Profit | PnL: 0.6713
+2025-06-21 15:17:01,625 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:18:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:18:01,107 INFO:✅ [ETH/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 15:18:01,303 INFO:🚀 [ETH/USDT] 진입 성공! LONG | 수량: 0.245 | 진입가: 2420.3
+2025-06-21 15:18:01,504 INFO:✅ [ETH/USDT] TP 주문 설정 완료. 발동가: 2423.5196319433326
+2025-06-21 15:18:01,715 INFO:✅ [ETH/USDT] SL 주문 설정 완료. 발동가: 2419.0788880212503
+2025-06-21 15:18:02,057 INFO:✍️  [진입 기록] ETH/USDT | LONG | 진입: 2420.29
+2025-06-21 15:18:02,057 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:20:01,357 INFO:🔓 [BTC/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 15:20:01,947 INFO:✍️  [청산 기록] BTC/USDT | 사유: Stop Loss | PnL: -0.0735
+2025-06-21 15:20:01,947 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:21:00,328 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 15:21:01,441 INFO:✅ [BTC/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 15:21:01,651 INFO:🚀 [BTC/USDT] 진입 성공! LONG | 수량: 0.005 | 진입가: 103302.3
+2025-06-21 15:21:01,868 INFO:✅ [BTC/USDT] TP 주문 설정 완료. 발동가: 103348.79976315238
+2025-06-21 15:21:02,060 INFO:✅ [BTC/USDT] SL 주문 설정 완료. 발동가: 103284.86258881786
+2025-06-21 15:21:02,446 INFO:✍️  [진입 기록] BTC/USDT | LONG | 진입: 103302.3
+2025-06-21 15:21:02,446 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:21:02,761 INFO:惜 [DOGE/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 15:22:01,380 INFO:🔓 [BTC/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 15:22:02,004 INFO:✍️  [청산 기록] BTC/USDT | 사유: Stop Loss | PnL: -0.0910
+2025-06-21 15:22:02,004 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:23:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:24:01,033 INFO:🔓 [ETH/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 15:24:01,620 INFO:✍️  [청산 기록] ETH/USDT | 사유: Take Profit | PnL: 0.7889
+2025-06-21 15:24:01,620 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:24:02,125 INFO:✅ [BTC/USDT] 진입 전, 기존 조건부 주문 취소 완료.
+2025-06-21 15:24:02,325 INFO:🚀 [BTC/USDT] 진입 성공! SHORT | 수량: 0.005 | 진입가: 103469.0
+2025-06-21 15:24:02,596 INFO:✅ [BTC/USDT] TP 주문 설정 완료. 발동가: 103381.3235654348
+2025-06-21 15:24:02,744 INFO:✅ [BTC/USDT] SL 주문 설정 완료. 발동가: 103512.87866296196
+2025-06-21 15:24:03,212 INFO:✍️  [진입 기록] BTC/USDT | SHORT | 진입: 103477.0
+2025-06-21 15:24:03,212 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:28:00,711 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:29:00,398 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:30:00,352 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 2/11점
+2025-06-21 15:30:00,672 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 15:30:00,997 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:30:01,719 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:6) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:31:00,317 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 3/11점
+2025-06-21 15:32:00,351 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 15:32:01,033 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 15:37:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 15:41:01,714 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:42:01,735 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 15:45:00,687 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 15:45:01,013 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:45:01,721 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 15:46:00,328 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 15:47:00,325 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:47:00,674 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:47:01,007 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:47:01,391 INFO:🔓 [BTC/USDT] 포지션 종료 확인. 결과 분석 및 알림 시작...
+2025-06-21 15:47:01,988 INFO:✍️  [청산 기록] BTC/USDT | 사유: Stop Loss | PnL: -0.2430
+2025-06-21 15:47:01,988 INFO:💾 상태 정보가 state.json 파일에 저장되었습니다.
+2025-06-21 15:48:01,374 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 15:50:01,385 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 15:52:01,395 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 15:53:01,403 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:54:01,024 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 15:55:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 15:56:01,406 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 15:57:01,731 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 15:58:00,663 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 15:59:00,344 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:00:01,344 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:00:01,683 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:00:01,683 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 16:01:00,330 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:3) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 16:01:01,082 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:01:01,757 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:02:00,691 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 16:03:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:03:01,355 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 16:03:01,692 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 16:06:01,004 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 16:06:01,329 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 16:07:00,744 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 16:07:00,744 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 16:07:01,733 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:08:00,568 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:09:00,675 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 16:09:01,000 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 16:09:01,366 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 16:10:00,682 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:12:01,016 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:12:01,710 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 16:12:01,710 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:13:00,332 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 16:13:01,028 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 16:14:00,687 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:14:01,724 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 16:15:01,044 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 16:15:01,723 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:16:00,340 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 16:17:00,675 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:17:01,021 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:17:01,378 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:17:01,720 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:18:00,674 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 16:18:01,679 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 16:19:00,665 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:19:00,987 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:19:01,672 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 16:20:01,033 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:20:01,716 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 16:21:00,314 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:21:00,986 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:21:01,653 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:22:01,039 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:23:00,664 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:23:01,014 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:23:01,365 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 16:24:01,736 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:25:00,321 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 16:25:00,673 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 16:25:01,024 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 16:25:01,353 INFO:惜 [BTC/USDT] 진입 근접! (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 16:27:00,318 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 16:27:01,345 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 16:30:00,325 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:30:00,669 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 16:30:00,669 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 16:30:01,680 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 16:31:00,324 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 16:31:01,313 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:32:00,341 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 16:32:01,328 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 16:33:01,339 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 16:35:01,022 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 16:39:00,694 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:39:01,032 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:40:00,687 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 16:44:00,315 INFO:惜 [XRP/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 16:44:01,004 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 16:45:00,337 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 16:45:00,664 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 5/7점
+2025-06-21 16:45:01,006 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:45:01,384 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 16:45:01,722 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 16:46:01,722 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 16:47:00,319 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:47:00,675 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 16:49:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 16:51:00,674 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 16:52:00,320 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 16:52:00,320 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 16:52:01,003 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 16:53:00,346 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 16:54:00,674 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 16:55:00,698 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 16:56:00,692 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 16:57:00,339 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 16:57:00,646 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 16:58:00,339 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 17:01:00,753 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:01:00,753 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:01:01,092 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 17:01:01,435 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:0,R:6) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 17:02:00,760 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:04:00,341 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:04:01,012 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 17:05:00,343 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 17:06:00,330 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:06:00,689 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:07:01,429 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:08:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:08:01,647 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:10:00,671 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:11:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:12:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:12:00,671 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 17:13:00,353 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:13:00,690 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:13:01,387 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:13:01,727 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:14:00,325 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:14:01,325 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 17:14:01,691 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:15:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:15:01,027 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 17:15:01,370 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 17:16:00,670 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 17:17:00,323 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:18:00,339 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:18:00,670 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:18:01,697 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 17:19:00,648 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:19:00,969 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:19:01,668 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:20:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:20:00,342 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:20:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:22:00,349 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 17:22:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 17:23:00,338 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 17:24:00,315 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:26:01,015 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:28:00,673 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 17:28:01,015 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 17:29:01,517 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:30:00,340 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 17:30:00,340 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 17:30:01,788 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:30:01,788 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 17:31:01,721 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 17:32:01,729 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 17:33:01,046 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 17:33:01,728 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 17:34:01,748 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 17:35:01,022 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:36:01,741 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 17:37:01,402 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:38:01,357 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:38:01,692 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:39:00,672 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 17:39:00,688 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:41:00,692 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 17:42:00,687 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:42:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:4)
+2025-06-21 17:44:00,676 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 9/11점, 숏: 1/11점
+2025-06-21 17:45:00,339 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 17:45:00,670 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 8/11점, 숏: 0/11점
+2025-06-21 17:46:01,679 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:49:01,731 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:50:01,372 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:51:01,731 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:52:00,706 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:54:01,388 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:54:01,736 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 17:55:01,777 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 17:56:00,687 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:56:01,378 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:57:01,397 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:57:01,717 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:58:00,732 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:58:01,083 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 17:58:01,416 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:59:01,021 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 17:59:01,021 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 17:59:01,706 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:00:00,330 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 18:00:00,668 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:00:00,993 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:00:01,350 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:00:01,708 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:01:00,332 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 5/7점
+2025-06-21 18:01:00,662 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 8/11점, 숏: 4/11점
+2025-06-21 18:01:01,367 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:02:00,681 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:04:01,364 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:06:01,380 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 18:08:01,384 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:09:00,668 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:10:01,384 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 18:11:00,714 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:12:00,683 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 18:12:01,019 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:12:01,374 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:12:01,719 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:13:00,670 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 18:13:00,996 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 18:14:00,688 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 18:14:01,029 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 18:14:01,392 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 18:15:00,340 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 18:15:00,679 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 18:15:01,357 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:2,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 18:16:01,044 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 18:16:01,381 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 18:17:01,366 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 18:18:00,667 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 18:18:01,021 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 18:19:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 18:20:01,748 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:5)
+2025-06-21 18:24:01,388 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 18:28:01,394 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 18:29:01,210 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 18:30:00,323 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 18:30:00,680 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 18:30:01,029 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 18:30:01,385 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 18:30:01,736 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 18:40:01,054 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 18:43:00,710 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 18:43:01,718 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 18:44:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 18:44:01,034 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:45:00,700 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 18:45:01,026 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 8/11점, 숏: 2/11점
+2025-06-21 18:45:01,356 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 18:46:00,334 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 5/7점
+2025-06-21 18:46:01,352 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 18:47:00,682 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:47:01,680 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 18:47:01,680 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:48:01,400 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 18:48:01,741 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:49:01,014 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 3/11점
+2025-06-21 18:49:01,716 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 18:49:01,716 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:50:00,689 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:50:01,022 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 3/11점
+2025-06-21 18:50:01,724 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:51:00,694 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:51:01,030 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:51:01,725 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 18:52:01,115 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 18:52:01,441 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:52:01,762 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:54:00,330 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 18:55:00,686 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 18:58:00,686 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 18:58:01,383 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 18:58:01,731 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 3/11점
+2025-06-21 18:59:00,329 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 18:59:00,661 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 18:59:01,675 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 19:00:00,341 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 19:00:00,669 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:4,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:00:01,021 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:00:01,724 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:01:00,332 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 4/7점, 숏: 1/7점
+2025-06-21 19:01:01,031 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:02:00,672 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:02:01,031 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:02:01,033 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:02:01,809 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 19:03:00,691 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:03:01,379 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:03:01,731 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 19:03:01,731 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:04:00,321 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:04:01,359 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 19:05:01,434 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 19:06:01,059 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:06:01,409 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:06:01,768 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 3/11점
+2025-06-21 19:07:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:08:00,814 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:08:01,126 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 19:08:01,468 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:08:01,792 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:09:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 19:09:01,361 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:10:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:10:01,691 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:11:01,041 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 19:12:00,348 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:13:01,397 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:13:01,736 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:14:00,693 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 19:15:00,684 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 7/11점, 숏: 2/11점
+2025-06-21 19:15:01,027 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:15:01,347 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:15:01,696 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:16:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:16:00,661 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:3) | 롱: 10/11점, 숏: 3/11점
+2025-06-21 19:16:01,354 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 19:20:00,349 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:20:01,747 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:21:00,680 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:22:00,355 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:22:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 19:24:00,345 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 19:25:00,412 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 19:25:01,751 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 19:26:00,323 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 19:26:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 19:28:00,333 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 19:28:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:28:01,349 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 19:29:00,679 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:29:00,679 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 2/11점
+2025-06-21 19:29:01,014 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 19:29:01,376 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:30:00,691 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 2/11점
+2025-06-21 19:30:01,033 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 19:30:01,377 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 8/11점, 숏: 2/11점
+2025-06-21 19:31:00,690 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 7/11점, 숏: 3/11점
+2025-06-21 19:31:01,699 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 19:33:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:33:00,676 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 19:34:00,677 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 19:34:01,354 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:35:00,751 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:35:01,432 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:36:01,383 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 19:37:00,354 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:37:01,363 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 19:38:00,710 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 19:39:00,698 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:39:01,365 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 19:40:00,335 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 19:43:00,334 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 19:43:00,662 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 19:43:01,005 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:44:01,733 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:45:00,353 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 19:45:00,353 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 19:45:00,676 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:45:01,356 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 19:45:01,715 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 19:45:01,715 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 19:46:00,343 INFO:惜 [XRP/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 19:46:01,686 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:47:00,331 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 19:47:00,686 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 19:47:01,021 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 19:47:01,725 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 19:48:01,399 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:50:00,335 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 19:51:00,699 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 19:54:01,051 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:1,R:2)
+2025-06-21 19:56:00,663 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 19:56:01,343 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 19:56:01,692 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:3,R:3)
+2025-06-21 19:58:01,472 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 19:59:01,025 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 19:59:01,365 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 20:00:00,341 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 1/7점, 숏: 2/7점
+2025-06-21 20:00:00,661 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 20:00:00,994 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 20:00:01,337 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 20:00:01,337 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 7/11점
+2025-06-21 20:01:00,329 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 1/7점, 숏: 4/7점
+2025-06-21 20:01:01,667 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 20:08:01,402 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 20:10:00,691 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:10:01,736 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:11:00,693 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 20:11:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:12:01,459 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 20:14:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:0,R:2)
+2025-06-21 20:14:01,026 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 20:15:00,327 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:6) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 20:15:01,019 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 20:15:01,356 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 20:15:01,697 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 20:15:01,697 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 20:16:00,711 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:5)
+2025-06-21 20:16:01,112 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 20:16:01,865 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:18:01,498 INFO:惜 [BTC/USDT] 진입 근접! (시장: range_bound, T:2,R:3) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 20:18:01,827 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 20:19:00,339 INFO:惜 [XRP/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 1/7점
+2025-06-21 20:19:01,000 INFO:惜 [ETH/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 20:19:01,336 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 20:22:01,381 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 20:23:01,452 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 20:28:00,483 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:30:00,695 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 20:30:01,028 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 20:30:01,758 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 2/7점, 숏: 0/7점
+2025-06-21 20:31:01,379 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 20:34:00,356 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 20:36:00,692 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:37:00,329 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:39:00,325 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 20:39:01,334 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:40:00,343 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 20:42:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 20:43:01,391 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:6)
+2025-06-21 20:45:00,703 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 20:45:01,021 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 20:45:01,350 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 20:45:01,711 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 20:46:01,039 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 20:48:01,026 INFO:惜 [ETH/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 20:49:00,330 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 20:49:01,001 INFO:惜 [ETH/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 20:49:01,689 INFO:惜 [DOGE/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 20:50:01,048 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 20:52:01,750 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 20:54:01,716 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:0,R:2)
+2025-06-21 20:55:01,750 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 20:56:01,025 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 21:00:00,672 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 21:00:00,991 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 21:00:01,350 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 21:00:01,705 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 21:01:00,311 INFO:惜 [XRP/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 6/7점, 숏: 0/7점
+2025-06-21 21:01:00,671 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 21:01:01,026 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 21:04:01,792 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 21:05:01,738 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:0,R:2)
+2025-06-21 21:08:01,719 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 21:10:00,328 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 21:13:01,000 INFO:惜 [ETH/USDT] 진입 근접! (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 21:14:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 21:15:00,327 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 21:15:00,670 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 3/7점, 숏: 1/7점
+2025-06-21 21:15:01,019 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 1/7점, 숏: 5/7점
+2025-06-21 21:15:01,363 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 5/7점
+2025-06-21 21:16:01,363 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 1/7점, 숏: 4/7점
+2025-06-21 21:16:01,695 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 21:18:00,681 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 21:18:01,710 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:18:01,710 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:20:01,027 INFO:惜 [ETH/USDT] 진입 근접! (시장: range_bound, T:1,R:5) | 롱: 6/7점, 숏: 1/7점
+2025-06-21 21:21:01,738 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:22:00,324 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 21:22:00,658 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 21:22:00,996 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 21:23:01,374 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 21:24:01,466 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:24:01,790 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:25:00,336 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 21:26:01,034 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 21:26:01,709 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:27:01,831 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:28:01,370 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:29:01,726 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:30:00,346 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 21:30:00,664 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 21:30:01,017 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 21:31:00,675 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:31:01,006 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:0,R:5) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 21:31:01,346 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 21:31:01,692 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 3/11점, 숏: 10/11점
+2025-06-21 21:32:01,731 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:33:00,693 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:34:01,742 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:35:01,734 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:36:01,730 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:37:00,330 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 21:37:01,017 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 21:37:01,697 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:38:01,741 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:39:01,723 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:41:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:41:01,682 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 21:42:01,114 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:42:01,118 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 21:42:01,791 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:43:01,392 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 21:44:00,330 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 21:45:00,362 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 21:45:00,688 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:45:01,034 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 21:45:01,703 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:46:00,329 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:46:01,703 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:47:00,332 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:47:00,332 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 21:47:01,003 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:47:01,335 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:48:00,689 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 21:48:01,005 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:48:01,679 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:49:00,676 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 21:49:01,352 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 21:50:00,690 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 21:52:00,347 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 21:53:00,335 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:53:00,672 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 21:53:01,703 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:54:01,745 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 21:55:00,685 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:55:01,684 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:56:00,697 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 21:56:01,371 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:56:01,711 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:57:01,035 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:58:00,992 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:58:01,335 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 21:58:01,657 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 21:59:01,358 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 21:59:01,713 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 4/11점, 숏: 9/11점
+2025-06-21 22:00:00,797 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 22:00:00,813 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 4/11점, 숏: 5/11점
+2025-06-21 22:00:01,133 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 5/11점, 숏: 5/11점
+2025-06-21 22:00:01,482 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:00:01,482 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 9/11점
+2025-06-21 22:00:01,817 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 22:01:00,319 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:01:00,660 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:01:01,002 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:01:01,371 INFO:📊 [BTC/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 22:01:01,717 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:02:00,328 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 1/11점, 숏: 10/11점
+2025-06-21 22:02:00,671 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:4)
+2025-06-21 22:02:01,688 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:03:00,326 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:03:00,652 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 22:03:00,993 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 22:03:01,675 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:04:00,665 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 10/11점, 숏: 0/11점
+2025-06-21 22:04:01,711 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 22:05:01,426 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 22:05:01,753 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 22:06:00,327 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:06:00,327 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:06:00,644 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 22:06:01,302 INFO:📊 [BTC/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 22:07:00,311 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:07:00,661 INFO:📊 [SOL/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:07:01,011 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 22:07:01,700 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:08:01,079 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:09:00,346 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:09:00,346 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 22:09:01,041 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 9/11점, 숏: 0/11점
+2025-06-21 22:09:01,728 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:10:01,767 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:11:00,327 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 10/11점
+2025-06-21 22:11:01,007 INFO:📊 [ETH/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:12:00,331 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:12:01,693 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 3/11점, 숏: 10/11점
+2025-06-21 22:13:00,694 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 22:13:01,690 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:14:00,705 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:3,R:3)
+2025-06-21 22:14:01,022 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:1,R:3)
+2025-06-21 22:15:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 22:15:00,684 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 22:15:01,001 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 22:15:01,362 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 22:15:01,728 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 22:15:01,728 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: range_bound, T:2,R:3) | 롱: 3/7점, 숏: 0/7점
+2025-06-21 22:16:00,333 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:16:01,693 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 22:16:01,693 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:17:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:17:01,679 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 22:19:00,684 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 22:19:01,701 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 22:21:00,702 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:4)
+2025-06-21 22:21:01,719 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 22:22:00,326 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:22:00,326 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:22:01,023 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> range_bound (T:0,R:3)
+2025-06-21 22:22:01,724 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 22:22:01,724 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:23:00,317 INFO:📊 [XRP/USDT] 시장 상태 변경: trending -> range_bound (T:2,R:3)
+2025-06-21 22:24:01,723 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:25:01,740 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:26:01,732 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 22:27:01,378 INFO:惜 [BTC/USDT] 진입 근접! (시장: range_bound, T:1,R:3) | 롱: 0/7점, 숏: 6/7점
+2025-06-21 22:27:01,737 INFO:📊 [DOGE/USDT] 시장 상태 변경: trending -> choppy (T:2,R:2)
+2025-06-21 22:30:00,336 INFO:⚪️ [XRP/USDT] 상태 점검 (시장: range_bound, T:0,R:6) | 롱: 0/7점, 숏: 3/7점
+2025-06-21 22:30:01,043 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: range_bound, T:1,R:4) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 22:30:01,390 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: range_bound, T:1,R:5) | 롱: 0/7점, 숏: 2/7점
+2025-06-21 22:32:01,743 INFO:📊 [DOGE/USDT] 시장 상태 변경: choppy -> range_bound (T:2,R:3)
+2025-06-21 22:36:00,337 INFO:📊 [XRP/USDT] 시장 상태 변경: range_bound -> choppy (T:2,R:2)
+2025-06-21 22:36:00,666 INFO:📊 [SOL/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 22:36:01,693 INFO:📊 [DOGE/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 22:36:01,693 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:37:01,028 INFO:📊 [ETH/USDT] 시장 상태 변경: range_bound -> choppy (T:1,R:2)
+2025-06-21 22:37:01,701 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:38:00,900 INFO:📊 [SOL/USDT] 시장 상태 변경: choppy -> trending (T:4,R:2)
+2025-06-21 22:38:01,924 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:39:00,342 INFO:📊 [XRP/USDT] 시장 상태 변경: choppy -> trending (T:5,R:2)
+2025-06-21 22:39:00,342 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:39:01,355 INFO:📊 [BTC/USDT] 시장 상태 변경: range_bound -> trending (T:3,R:2)
+2025-06-21 22:39:01,686 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:40:00,330 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:40:01,037 INFO:📊 [ETH/USDT] 시장 상태 변경: choppy -> trending (T:3,R:2)
+2025-06-21 22:40:01,724 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:41:00,334 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 22:43:00,318 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:43:01,683 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:44:01,738 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:45:00,752 INFO:⚪️ [SOL/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:45:01,070 INFO:⚪️ [ETH/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 2/11점, 숏: 8/11점
+2025-06-21 22:45:01,413 INFO:⚪️ [BTC/USDT] 상태 점검 (시장: trending, T:3,R:2) | 롱: 2/11점, 숏: 7/11점
+2025-06-21 22:45:01,756 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 3/11점, 숏: 7/11점
+2025-06-21 22:46:00,335 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:46:00,680 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 22:46:01,026 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:46:01,708 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:47:00,331 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:47:00,672 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:47:01,022 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:48:00,357 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:48:00,695 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:48:01,039 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:48:01,388 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:48:01,728 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:49:00,338 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:49:01,029 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:49:01,731 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:51:00,343 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:51:01,017 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:51:01,691 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:52:00,326 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:52:00,714 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:53:00,336 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:53:01,021 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:54:04,177 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:54:04,521 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:4,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:54:04,864 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:54:05,561 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:55:00,686 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:55:01,031 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:55:01,374 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:55:01,732 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:0) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:56:00,675 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:56:01,014 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 9/11점
+2025-06-21 22:57:00,326 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:57:00,664 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:57:01,001 INFO:惜 [ETH/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:57:01,716 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:58:01,420 INFO:惜 [BTC/USDT] 진입 근접! (시장: trending, T:3,R:2) | 롱: 1/11점, 숏: 9/11점
+2025-06-21 22:59:00,356 INFO:惜 [XRP/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:59:00,704 INFO:惜 [SOL/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 22:59:01,912 INFO:惜 [DOGE/USDT] 진입 근접! (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점
+2025-06-21 23:00:02,841 INFO:⚪️ [DOGE/USDT] 상태 점검 (시장: trending, T:5,R:2) | 롱: 0/11점, 숏: 10/11점

@@ -1,3 +1,4 @@
+#utils.py
 import os
 import requests
 import logging
@@ -59,14 +60,14 @@ def log_trade_record(symbol, side, timestamp, entry_price=None, stop_loss=None, 
         
         trade_time = datetime.fromtimestamp(timestamp / 1000).strftime('%Y-%m-%d %H:%M:%S')
         context_str = json.dumps(entry_context) if isinstance(entry_context, dict) else ''
+        tp_str = f"{take_profit:.4f}" if take_profit is not None else "Trailing"
 
         with open(file_path, "a", encoding="utf-8", newline='') as f:
             if exit_reason:
                 f.write(f"{trade_time},{symbol},{side},,,,,{pnl or ''},{holding_time or ''},{exit_reason or ''},\n")
                 logging.info(f"✍️  [청산 기록] {symbol} | 사유: {exit_reason} | PnL: {pnl:.4f}")
             else:
-                f.write(f"{trade_time},{symbol},{side},{entry_price},{stop_loss},{take_profit},,,,{context_str}\n")
+                f.write(f"{trade_time},{symbol},{side},{entry_price},{stop_loss},{tp_str},,,,{context_str}\n")
                 logging.info(f"✍️  [진입 기록] {symbol} | {side.upper()} | 진입: {entry_price}")
-                
     except Exception as e:
         logging.error(f"❌ CSV 거래 기록 저장 실패: {e}")

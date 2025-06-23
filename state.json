@@ -1,0 +1,14 @@
+{
+    "SOL/USDT": {
+        "last_signal": "long",
+        "last_timestamp": 1750643640000,
+        "entry_info": null,
+        "last_market_condition": "trending"
+    },
+    "ETH/USDT": {
+        "last_signal": "long",
+        "last_timestamp": 1750633440000,
+        "entry_info": null,
+        "last_market_condition": "choppy"
+    }
+}
